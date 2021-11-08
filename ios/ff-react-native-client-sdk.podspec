@@ -8,7 +8,7 @@ Pod::Spec.new do |ff|
     Feature Flag Management platform from Harness. React Native SDK can be used to integrate with the platform in your React Native applications.
                    DESC
 
-  ff.homepage     = "https://github.com/drone/ff-react-native-client-sdk"
+  ff.homepage     = "https://github.com/harness/ff-react-native-client-sdk"
   ff.license      = { :type => "Apache-2.0", :file => "../LICENSE" }
   ff.author       = "Harness Inc"
 
